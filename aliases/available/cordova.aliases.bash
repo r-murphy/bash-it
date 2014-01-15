@@ -1,0 +1,15 @@
+cite 'about-alias'
+about-alias 'common git abbreviations'
+
+# Aliases
+alias cord='cordova'
+alias cords='cordova plugins search'
+alias cord_add='cordova plugins add'
+alias cord_add_geo='cordova plugins add org.apache.cordova.geolocation'
+alias cord_add_cam='cordova plugins add org.apache.cordova.camera'
+alias cord_add_dia='cordova plugins add org.apache.cordova.dialogs'
+alias cord_add_geo='cordova platforms add ios'
+alias cord_add_ios='cordova platforms add ios'
+alias cord_add_and='cordova platforms add android'
+alias cord_b='cordova build'
+alias cord_prep='cordova prepare'
